@@ -1,0 +1,49 @@
+.navbar {
+  background-color: #ffffff;
+}
+
+.navbar .nav-link {
+  color: #1a1a1a;
+}
+
+.navbar .nav-link :hover {
+  color: #1a1a1a;
+}
+
+.navbar .logo {
+  min-width: 100px;
+  max-width: 250;
+}
+
+.navbar .navbar-toggler {
+  font-size: 40px;
+  outline: none;
+}
+
+#hero {
+  background-image: url("../img/header.jpg");
+  background-size: cover;
+  height: 550px;
+}
+
+#hero .container {
+  background-color: #5A2CAE;
+  opacity: 60%;
+  width: 50%;
+  max-width: 500px;
+  height: 550px;
+}
+
+#hero .container h1 {
+  color: #1a1a1a;
+  opacity: 100%;
+}
+
+#hero .container p {
+  color: #1a1a1a;
+  opacity: 100%;
+}
+
+/*# sourceMappingURL=estilos.css.map */
+
+/*# sourceMappingURL=estilos.css.map */

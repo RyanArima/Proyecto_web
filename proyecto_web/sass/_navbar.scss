@@ -1,0 +1,18 @@
+@import "variables";
+
+.navbar{
+    background-color: $blanco;
+
+    .nav-link{
+        color: $negro;
+        :hover{color: $negro;} 
+    }   
+    .logo{
+        min-width: 100px;
+        max-width: 250;
+    }
+    .navbar-toggler{
+        font-size: 40px;
+        outline: none;
+    }
+}

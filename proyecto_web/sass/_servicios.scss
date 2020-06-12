@@ -1,0 +1,34 @@
+#sec_2{
+    background-color: $gris;
+    height: 500px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: $azul;
+}
+
+#sec_3{
+    height: 500px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: $azul;
+}
+
+#sec_4{
+    height: 500px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: $azul;
+}
+
+.rombo {
+    clip-path: polygon(50% 0%, 85% 50%, 50% 100%, 15% 50%);
+}

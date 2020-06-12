@@ -1,0 +1,24 @@
+@import "variables";
+
+#hero{
+    background-image: url('../img/header.jpg');
+    background-size: cover;
+    height: 550px;
+
+    .container{
+        background-color: $azul;
+        opacity: 60%;
+        width: 50%;
+        max-width: 500px;
+        height: 550px;
+
+        h1{
+            color: $negro;
+            opacity: 100%;
+        }
+        p{
+            color: $negro;
+            opacity: 100%;
+        }
+    }
+}
